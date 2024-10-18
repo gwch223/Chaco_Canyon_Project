@@ -10,20 +10,20 @@ features of the canyon itself. In short, this map allows a fast view of the Grea
 building clusters in the canyon, hypothesizing why a Great House is located in a specific area.  You can annotate the stored base map to indicate the type 
 of Great House (ritual, residence, storage, etc.) and adjacent structures.    
 
-The creation of this map was accomplished in the following steps.  First, an appropriate map was selected from the XYZ Tile area of QGIS.  During this phase of 
-development numerous maps were examined, including ESRI Standard, ESRI Satellite, ESRI Terrain, ESRI Topo World, ESRI National Geographic, and OpenStreetMap.  
-These maps were eventually discarded after my determination that they needed more detail, needed to have the contrast required, or displayed too many 
-roads/trails and not enough topographic features. After selecting the OpenTopoMap for the base, I selected the topographic level of view best suited to display 
-the topographic and hydrologic detail I required. This area was georeferenced, utilizing the QGIC "georeferencing" tool, and a new layer was created. Points for 
+The creation of this map was accomplished in the following steps.  First, an appropriate map was selected from the XYZ Tile area of QGIS.  During this development phase
+, numerous maps were examined, including ESRI Standard, ESRI Satellite, ESRI Terrain, ESRI Topo World, ESRI National Geographic, and OpenStreetMap. These 
+maps were eventually discarded after my determination that they needed more detail, needed to have the contrast required, or displayed too many roads/trails and 
+needed more topographic features. After selecting the OpenTopoMap for the base, I selected the topographic level of view best suited to display the topographic 
+and hydrologic detail I required. This area was georeferenced, utilizing the QGIC "georeferencing" tool, and a new layer was created. Points for 
 the georeferencing step were taken from the corners of the Chaco Canyon Cultural Park boundaries, a part of the original base map.  This was done to ease 
 annotation and overall map usage. The new annotation layer was created once the new layer was laid over the existing base map. At this point, the baseline map for 
 Chaco Canyon was completed and can be used for future projects.  
 
 <img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Chaco_Canyon_modified.pdf" />
 
-After the base map was configured, my next step was labeling locations within the canyon.  This required the activation of the "Annotation" toolbar. 
+After configuring the base map, my next step was labeling locations within the canyon. This required activating the "Annotation" toolbar. 
 
-<img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Annotation%20Toolbar.pdf"  />
+<img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Annotation%20Details.jpg"  />
 
 
 Going to the main toolbar, under "View" and "Toolbar," I was able to activate this feature.  Once this was accomplished, I started by placing markers at the location of the 
