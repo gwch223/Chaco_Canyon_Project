@@ -1,4 +1,5 @@
 Chaco_Canyon_Project (Building Phases)
+
 This project was constructed using tile base maps from OpenTopoMap (https://opentopomap.org/#map=9/38.3524/-105.8835). This map was downloaded as part of 
 XYZ Tiles using QGIS 3.38 Grenoble software. Annotation data was taken from the books, "Archaeology and Archaeologists: Chaco Canyon," by Robert H. Lister & 
 Florence C. Lister, and "The Chaco Canyon Handbook: An Encyclopedic Guide," by R. Gwinn Vivian & Bruce Hilpert.  
