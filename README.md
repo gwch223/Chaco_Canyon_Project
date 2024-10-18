@@ -23,7 +23,6 @@ After configuring the base map, my next step was labeling locations within the c
 
 <img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Annotation%20Toolbar.pdf" />
 
-
 Going to the main toolbar, under "View" and "Toolbar," I was able to activate this feature.  Once this was accomplished, I started by placing markers at the location of the 
 Great Houses and other features of importance in the canyon that information come from the aforementioned archaeological texts.  Once these were placed, I labeled them with 
 the Great House name and initial construction date.  I was not interested in subsequent construction on each Great House for this map, only the initial 
