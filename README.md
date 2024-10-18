@@ -21,17 +21,21 @@ Chaco Canyon was completed and can be used for future projects.
 
 <img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Chaco_Canyon_modified.pdf" />
 
-After the base map was configured, my next step was labeling locations within the canyon.  This required the activation of the "Annotation" toolbar.  Going 
-to the main toolbar, under "View" and "Toolbar," I was able to activate this feature.  Once this was accomplished, I started by placing markers at the location of the 
-Great Houses and other features of importance in the canyon that information come from the aforementioned archaeological texts.  Once these were placed, I labeled them with 
-the Great House name and initial construction date.  
+After the base map was configured, my next step was labeling locations within the canyon.  This required the activation of the "Annotation" toolbar. 
 
 <img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Annotation%20Toolbar.pdf"  />
 
-I was not interested in subsequent construction on each Great House for this map, only the initial 
+
+Going to the main toolbar, under "View" and "Toolbar," I was able to activate this feature.  Once this was accomplished, I started by placing markers at the location of the 
+Great Houses and other features of importance in the canyon that information come from the aforementioned archaeological texts.  Once these were placed, I labeled them with 
+the Great House name and initial construction date.  I was not interested in subsequent construction on each Great House for this map, only the initial 
 construction date and the phase within which that work was started. Later maps may have the range of construction date as a comparison.  In the labeling, I 
 noted that the placement of the labels could have been more straightforward.  The text area was slightly offset from where I thought they would appear, so it took me 
-a little time to locate the labels.  Once this was done, the next issue was the font size.  From one day to the next, the proximate siZe of the fonts changed so that what was 
+a little time to locate the labels.  Once this was done, the next issue was the font size.  
+
+<img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Annotation%20Details.jpg" />
+
+From one day to the next, the proximate siZe of the fonts changed so that what was 
 a good font for viewing one day was too large the next day.  Again, a little trial and error allowed me to gauge the correct font size for the map.  Once the labeling 
 was done, the map was ready for a print layout.  
 
