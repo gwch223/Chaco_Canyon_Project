@@ -42,7 +42,7 @@ was done, the map was ready for a print layout.
 The construction of the print layout was no problem, with the only minor issue being the selection of a background color for the page and a font color that would be easy
 to read. Once this was done, the page was quickly rendered, and the final two .jpg prints (600 and 1200 dpi) were laid out.  
 
-<img src=  />
+<img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Chaco_Canyon_Building_Phases%201200%20dpi.jpeg" />
 
 I started the project using the EPSG: 3857 projection regarding the scale and CRS information.  This seemed to work well at the 1:10000 scale, and the information was clear and 
 readable.  I did examine the possible use of EPSG: 4269; however, this projection distorted the labels and some features of the georeferenced map, so I stayed with EPSG: 3857.  
