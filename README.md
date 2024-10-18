@@ -19,7 +19,7 @@ the georeferencing step were taken from the cornors of the Chaco Canyon Cultural
 annotation and overall map usage. Once the new layer was layed over the existing basemap, the new annotation layer was created. At this point the baseline map for 
 Chaco Canyon was completed and can be used for future projects.  
 
-<img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Chaco%20Canyon%20Detail_modified.tif" />
+<img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Chaco_Canyon_modified.pdf" />
 
 After the basemap was configured my next step was the labeling of locations within the canyon.  This required the axctivation of the "Annotation" toolbar.  Going 
 to the main toolbar, under "View" and "Toolbar" I was able to activate this feature.  Once this was accomplished I started by placing markers at the location of the 
