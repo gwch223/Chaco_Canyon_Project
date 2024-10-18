@@ -35,7 +35,7 @@ a little time to locate the labels.  Once this was done, the next issue was the 
 a good font for viewing one day was too large the next day.  Again, a little trial and error allowed me to gauge the correct font size for the map.  Once the labeling 
 was done, the map was ready for a print layout.  
 
-<img src= "Chaco Canyon Detail/Final Chaco .pdf " />
+<img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Final%20Chaco%20.pdf" />
 
 
 The construction of the print layout was no problem, with the only minor issue being the selection of a background color for the page and a font color that would be easy
