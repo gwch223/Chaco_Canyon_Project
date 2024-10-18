@@ -26,7 +26,7 @@ to the main toolbar, under "View" and "Toolbar," I was able to activate this fea
 Great Houses and other features of importance in the canyon that information come from the aforementioned archaeological texts.  Once these were placed, I labeled them with 
 the Great House name and initial construction date.  
 
-<img src= " "  />
+<img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Annotation%20Toolbar.pdf"  />
 
 I was not interested in subsequent construction on each Great House for this map, only the initial 
 construction date and the phase within which that work was started. Later maps may have the range of construction date as a comparison.  In the labeling, I 
