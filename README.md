@@ -22,7 +22,7 @@ Chaco Canyon was completed and can be used for future projects.
 
 After configuring the base map, my next step was labeling locations within the canyon. This required activating the "Annotation" toolbar. 
 
-<img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Annotation%20Toolbar.pdf" />
+![Annotation example](Chaco_Canyon_Detail/AnnotationToolbar.png)
 
 Going to the main toolbar, under "View" and "Toolbar," I was able to activate this feature.  Once this was accomplished, I started by placing markers at the location of the 
 Great Houses and other features of importance in the canyon that information come from the aforementioned archaeological texts.  Once these were placed, I labeled them with 
@@ -31,19 +31,19 @@ construction date and the phase within which that work was started. Later maps m
 noted that the placement of the labels could have been more straightforward.  The text area was slightly offset from where I thought they would appear, so it took me 
 a little time to locate the labels.  Once this was done, the next issue was the font size.  
 
-<img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Annotation%20Details.jpg" />
+![Annotation example](Chaco_Canyon_Detail/AnnotationDetails.jpg)
 
 From one day to the next, the proximate siZe of the fonts changed so that what was 
 a good font for viewing one day was too large the next day.  Again, a little trial and error allowed me to gauge the correct font size for the map.  Once the labeling 
 was done, the map was ready for a print layout.  
 
-<img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Final%20Chaco%20.pdf" />
+![Annotation example](Chaco_Canyon_Detail/Chaco_InProcess.png)
 
 
 The construction of the print layout was no problem, with the only minor issue being the selection of a background color for the page and a font color that would be easy
 to read. Once this was done, the page was quickly rendered, and the final two .jpg prints (600 and 1200 dpi) were laid out.  
 
-<img src= "https://github.com/gwch223/Chaco_Canyon_Project/blob/main/Chaco%20Canyon%20Detail/Chaco_Canyon_Building_Phases%201200%20dpi.jpeg" />
+![Annotation example](Chaco_Canyon_Detail/Chaco_Picture.png)
 
 I started the project using the EPSG: 3857 projection regarding the scale and CRS information.  This seemed to work well at the 1:10000 scale, and the information was clear and 
 readable.  I did examine the possible use of EPSG: 4269; however, this projection distorted the labels and some features of the georeferenced map, so I stayed with EPSG: 3857.  
